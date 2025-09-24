@@ -34,11 +34,7 @@ Just enter a tweet in the textbox and get instant sentiment predictions.
 - Addressed class imbalance
 - Macro F1 Score: **0.82**
 
-### 👨‍💻 Created By:
-**Mahadevan Biju Menon**  
-B.Tech CSE | Machine Learning | NLP | Open to work
-📧 [mahadevanmn10@gmail.com]  
-🌐 [www.linkedin.com/in/mahadevanmn10]
+
 
 ---
 
